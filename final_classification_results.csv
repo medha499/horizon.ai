@@ -1,0 +1,290 @@
+Comment,Final_Category,Google_Confidence,Unsupervised_Score
+Love the itinerary sharing feature. It makes planning group trips so much easier!,KMeans_0_DBSCAN_0,0.0,0.7212811484752739
+"The premium price is a bit high, but the features are okay.",KMeans_6_DBSCAN_1,0.0,0.8496656850394785
+"I can't share my trip details via WhatsApp directly, which would be a great feature.",KMeans_0_DBSCAN_0,0.0,0.7089239561291201
+"The price of premium is too high, could be better.",KMeans_1_DBSCAN_-1,0.0,0.9034296170493564
+Smooth booking experience.,KMeans_6_DBSCAN_-1,0.0,0.9999999257821162
+Premium access is affordable and totally enhances the app experience.,KMeans_6_DBSCAN_-1,0.0,0.8061070362820106
+"Minimal ads, they don't really bother me.",KMeans_1_DBSCAN_-1,0.0,1.0000000941742153
+Not too many ads compared to other apps.,KMeans_1_DBSCAN_-1,0.0,0.9443217888547203
+The app crashes sometimes when I'm adding new expenses. Please fix this issue soon!,KMeans_8_DBSCAN_2,0.0,0.7565509281575444
+"Search button is not working, can't find any destinations.",KMeans_9_DBSCAN_-1,0.0,0.7186524192984824
+"Ads are skippable, so it's not a big deal.",KMeans_1_DBSCAN_-1,0.0,0.9631162392296011
+"The app is amazing, I planned my entire trip using it!",KMeans_8_DBSCAN_2,0.0,0.8511558530183236
+Best for travel planning.,KMeans_0_DBSCAN_-1,0.0,0.850942688007177
+"Overall, a decent app for organizing trips, but too many pop-ups can ruin the experience.",/Internet & Telecom/Mobile & Wireless/Mobile Apps & Add-Ons,0.8799999952316284,0.8096732459336874
+"I hate the unskippable ads, but the app itself is really helpful for managing travel plans.",KMeans_8_DBSCAN_2,0.0,0.7393869583231111
+"Not happy with the update, app feels slower and glitchy.",KMeans_2_DBSCAN_-1,0.0,0.8289562623917313
+"Hate the update, it's full of bugs that need fixing ASAP.",KMeans_2_DBSCAN_-1,0.0,0.8750426608690126
+"Since the update, app has been slow and unreliable, please fix it.",KMeans_8_DBSCAN_2,0.0,0.8513250262432053
+The premium features are really helpful and the price is fair.,KMeans_1_DBSCAN_-1,0.0,0.7553451141447801
+"Update removed some useful features, app is less functional now.",KMeans_8_DBSCAN_2,0.0,0.7847226416764966
+Perfect for group trips.,KMeans_0_DBSCAN_0,0.0,0.768506876345364
+Notifications can be too much.,KMeans_4_DBSCAN_-1,0.0,0.9999999853366297
+"Premium is reasonably priced, makes the app much more functional.",KMeans_1_DBSCAN_-1,0.0,1.0000000916224623
+"Great value for money, the premium features are really useful.",KMeans_1_DBSCAN_-1,0.0,0.7440991291117833
+"The app sometimes lags, but overall it's the best for keeping my travels organized.",KMeans_8_DBSCAN_2,0.0,0.9554031102855506
+"Update broke the app, can't even open it without it crashing.",KMeans_8_DBSCAN_2,0.0,0.9999999787670691
+"Simple, yet effective app.",KMeans_8_DBSCAN_2,0.0,0.9552524914940392
+Notifications about my flight delays saved me a lot of time at the airport. Super useful!,KMeans_8_DBSCAN_-1,0.0,0.6786463921454153
+Good deals on hotels.,KMeans_0_DBSCAN_-1,0.0,0.7904076342809633
+Frequent freezing issues.,KMeans_2_DBSCAN_-1,0.0,0.9999999596931552
+"Perfect for planning solo trips, but I wish it had better group planning features.",KMeans_6_DBSCAN_1,0.0,0.7347724688628875
+Useful for managing trips.,KMeans_0_DBSCAN_0,0.0,0.9999999768887881
+"No more lags after the update, app feels so much faster now.",KMeans_2_DBSCAN_-1,0.0,0.8258415848653821
+I'm having a hard time syncing the app with my Google Calendar.,KMeans_8_DBSCAN_2,0.0,0.8675101457557889
+Keeps my plans neat.,KMeans_2_DBSCAN_-1,0.0,0.8484039426017913
+Good but needs offline mode.,KMeans_6_DBSCAN_-1,0.0,1.0000000009296295
+"I enjoy the new layout after the update. It 's cleaner, but still needs some performance improvements.",KMeans_2_DBSCAN_-1,0.0,0.8453922458581533
+Update added some cool features that make the app more user-friendly.,KMeans_8_DBSCAN_2,0.0,0.7847226416764966
+This app makes planning my travels so much easier! I can keep track of everything in one place.,/Internet & Telecom/Mobile & Wireless/Mobile Apps & Add-Ons,0.949999988079071,0.7910375842866715
+TravelTracker's recommendations for nearby attractions are pretty accurate!,KMeans_0_DBSCAN_-1,0.0,0.7028344508053561
+Ads are bearable considering the app is free.,KMeans_8_DBSCAN_2,0.0,0.8697424567571591
+Can't even use the app without being bombarded with ads.,KMeans_8_DBSCAN_2,0.0,0.8697424567571591
+"Great interface, but slow.",KMeans_6_DBSCAN_-1,0.0,1.0000000189737739
+"The ads aren 't too bad, but sometimes they pop up at the most inconvenient times.",KMeans_1_DBSCAN_-1,0.0,0.9125353345857882
+"Ads pop up constantly, ruins the experience.",KMeans_1_DBSCAN_-1,0.0,0.8680683755549055
+The ads are relevant and not too distracting.,KMeans_1_DBSCAN_-1,0.0,1.0000000941742153
+"App runs smoothly after the update, no more crashes like before.",KMeans_8_DBSCAN_2,0.0,0.791161720353408
+"Very buggy, needs updates.",KMeans_2_DBSCAN_-1,0.0,1.0000000546977987
+Notifications saved my trip!,KMeans_0_DBSCAN_0,0.0,0.7957237314875402
+Helpful but crashes often.,KMeans_2_DBSCAN_-1,0.0,0.9999999520278722
+"TravelTracker makes managing my travel plans stress-free. A few bugs, but nothing major.",KMeans_0_DBSCAN_-1,0.0,0.7803954413301075
+"Thanks to the update, the app is faster and more responsive.",KMeans_8_DBSCAN_2,0.0,0.837429223384756
+Smooth navigation features.,KMeans_6_DBSCAN_1,0.0,0.8893806636894849
+Flight details incorrect.,KMeans_7_DBSCAN_3,0.0,0.7709286144345291
+Managing my travel expenses has never been this simple. Great app for keeping everything organized.,KMeans_8_DBSCAN_2,0.0,0.7105300904769611
+"Great value for money with premium, but some features are still underdeveloped.",KMeans_1_DBSCAN_-1,0.0,0.7440991291117833
+I love how I can track my expenses easily with this app.,KMeans_8_DBSCAN_2,0.0,0.8332709627696043
+"I can see where my friends are, and their holiday photos inspire me to travel more!",KMeans_8_DBSCAN_-1,0.0,0.7913315959367403
+Troubles with booking flights.,KMeans_7_DBSCAN_3,0.0,0.8561802198970098
+"I hate the ads, they interrupt everything I do.",KMeans_1_DBSCAN_-1,0.0,0.8784439193011613
+Sharing travel photos with friends is so fun and easy.,KMeans_0_DBSCAN_-1,0.0,0.7661325740323435
+"Ads everywhere, makes navigation impossible.",KMeans_1_DBSCAN_-1,0.0,0.8901023250980823
+"The latest update fixed all the bugs, app works perfectly now!",KMeans_6_DBSCAN_-1,0.0,1.0000000024565119
+"The user interface is confusing, I can't figure out basic tasks.",KMeans_6_DBSCAN_-1,0.0,0.7244614777171494
+"It 's nice that the app recommends nearby attractions based on my location, very handy.",KMeans_9_DBSCAN_4,0.0,0.8466451037615552
+"Totally worth the cost, premium features make the app much better.",KMeans_8_DBSCAN_2,0.0,0.7423300836488371
+I wish there were more customization options for trip planning. It feels a bit limited sometimes.,KMeans_0_DBSCAN_0,0.0,0.7018749627129395
+Customer support is too slow. I had to wait days to get a response about a booking issue.,/Shopping/Consumer Resources,0.8299999833106995,0.7419220583874088
+"The premium features are fantastic, especially for frequent travelers. Totally worth the extra cost.",KMeans_1_DBSCAN_-1,0.0,0.7128305372541913
+"The app constantly needs updates, and it gets frustrating when I'm in the middle of planning.",KMeans_8_DBSCAN_2,0.0,0.8324221278716589
+"Love the new features from the update, much smoother experience.",KMeans_2_DBSCAN_-1,0.0,0.7741055893551896
+"Premium subscription is worth every penny, love the extra features.",KMeans_6_DBSCAN_1,0.0,0.825221184834249
+"Interface feels fresh and clean after the update, nice improvements.",KMeans_2_DBSCAN_-1,0.0,0.7355694481073172
+Saves time and effort.,KMeans_8_DBSCAN_-1,0.0,0.8078380114796286
+This app helped me find the best deals on hotels.,KMeans_8_DBSCAN_2,0.0,0.8718581096040028
+"I love the app, but it doesn't recognize some of the smaller airports when searching for flights.",KMeans_8_DBSCAN_2,0.5299999713897705,0.9160621375520651
+"Update made the app laggy and unresponsive, very frustrating.",KMeans_2_DBSCAN_-1,0.0,0.9473742223240262
+"The itinerary feature is good, but I'd like to see an integration with my calendar app.",KMeans_8_DBSCAN_2,0.0,0.8547908968486643
+"All my travel plans in one app, finally! No more juggling multiple websites to keep track of my itinerary.",/Travel,0.9200000166893005,0.722880091894029
+The app is slow and unresponsive when adding expenses.,KMeans_8_DBSCAN_2,0.0,0.8332709627696043
+Love that the app keeps track of my expenses automatically. Great for budgeting my trips!,KMeans_8_DBSCAN_-1,0.0,0.6831498274587093
+"Very buggy, keeps freezing on my phone.",KMeans_8_DBSCAN_-1,0.0,0.9999999423018969
+Unskippable ads make the app unbearable to use.,KMeans_8_DBSCAN_2,0.0,0.8697424567571591
+This app is perfect for group trips. Everyone can see the plan and add their own notes.,KMeans_8_DBSCAN_2,0.0,0.797693310880883
+Some premium features are not as useful as advertised.,KMeans_6_DBSCAN_1,0.0,0.9999999775323131
+"Couldn't add my friends to the trip, super annoying.",KMeans_0_DBSCAN_0,0.0,0.7241701703086926
+"The interface is sleek, but it can get laggy, especially when switching between tabs.",KMeans_6_DBSCAN_-1,0.0,0.9079188075556184
+Love the reminders.,KMeans_4_DBSCAN_-1,0.0,1.0000000647385616
+Trouble with map loading.,KMeans_2_DBSCAN_-1,0.0,0.8414604203455911
+I wish the app was more responsive. It tends to lag when switching between tabs.,KMeans_8_DBSCAN_2,0.0,0.9740240040402826
+"I keep getting logged out at random, and it's annoying to keep signing back in.",KMeans_3_DBSCAN_-1,0.0,1.0000001007065997
+"I'm happy with the premium features, they are definitely worth it.",KMeans_1_DBSCAN_-1,0.0,0.7936711550825261
+Flight alerts are helpful.,KMeans_7_DBSCAN_3,0.0,0.833795626616394
+"I can't get past the payment step, please fix this!",KMeans_1_DBSCAN_-1,0.0,0.8069462934934134
+Can't add friends easily.,KMeans_8_DBSCAN_-1,0.0,1.000000010339677
+"Premium is too expensive for what it offers, not worth it.",KMeans_1_DBSCAN_-1,0.0,1.0000000916224623
+"Keeps me organized, but I wish it had more features for business travel.",KMeans_0_DBSCAN_-1,0.0,0.6990833136052607
+Too many app crashes.,KMeans_2_DBSCAN_-1,0.0,0.9999999520278722
+"It 's great for organizing travel, but the user interface could be more intuitive.",KMeans_0_DBSCAN_-1,0.0,0.7897481573160692
+"Premium features are good, but the price could be lower.",KMeans_1_DBSCAN_-1,0.0,0.7553451141447801
+"Good, but slow sometimes.",Uncategorized,0.0,0.0
+"Ad placement is good, doesn't interfere with the user experience.",KMeans_8_DBSCAN_-1,0.0,0.7583270885552348
+I can't access some of my past trips in the history tab. Please fix this!,KMeans_0_DBSCAN_0,0.0,0.7959804561305042
+"The update has made a huge difference, very satisfied with the changes.",KMeans_2_DBSCAN_-1,0.0,0.9361822360037005
+"I like the new look of the app after the update, much better.",KMeans_8_DBSCAN_2,0.0,0.8429161272175448
+Map pins are off.,KMeans_9_DBSCAN_-1,0.0,0.840574989400057
+Premium doesn't add enough value for the cost.,KMeans_1_DBSCAN_-1,0.0,0.8451589930970481
+"The ads are way too intrusive, can't enjoy the app.",KMeans_8_DBSCAN_2,0.0,0.8511270427268494
+Slow customer support.,KMeans_8_DBSCAN_-1,0.0,0.8422926346761609
+Annoying pop-ups.,Uncategorized,0.0,0.0
+"The app is good, but the ads are unbearable.",KMeans_8_DBSCAN_2,0.0,0.8697424567571591
+"Update made the app way better, great job fixing those bugs!",KMeans_2_DBSCAN_-1,0.0,0.82283371711884
+I absolutely love how I can see my friends' travel photos and get inspired for my next trip.,/Online Communities,0.7300000190734863,0.7819384305635038
+"The booking confirmation took too long to appear, and I had to restart the app twice.",KMeans_8_DBSCAN_2,0.0,0.8839551919167496
+Tried to share my itinerary but it keeps failing.,KMeans_0_DBSCAN_5,0.0,0.8089727945779772
+Booking hotels through the app was smooth and effortless. Found great deals I couldn't find elsewhere.,KMeans_8_DBSCAN_2,0.0,0.8071226569479558
+"The search button often doesn 't work, and I have to restart the app to find what I need.",KMeans_8_DBSCAN_2,0.0,0.8359602589252464
+Helpful but glitchy.,KMeans_2_DBSCAN_-1,0.0,1.0000000041375712
+"Premium unlocks great features, definitely worth the upgrade.",KMeans_1_DBSCAN_-1,0.0,0.782443873081061
+"The new update fixed a lot of issues, but now the app is slower. Still better than before.",/Internet & Telecom/Mobile & Wireless/Mobile Apps & Add-Ons,0.6499999761581421,0.8993748858134213
+Limited destination options.,KMeans_5_DBSCAN_-1,0.0,0.8654207248788585
+"Premium tools are a game changer, worth the price.",KMeans_1_DBSCAN_-1,0.0,0.7860166360918537
+Organizing my trip and splitting costs with friends is so easy with this app. Highly recommend it!,KMeans_8_DBSCAN_2,0.0,0.7770154504020848
+"I enjoy the premium features, it's a good investment for travelers.",KMeans_1_DBSCAN_-1,0.0,0.8266084555896694
+"The app keeps logging me out, which is really annoying, especially when I need to check my bookings.",/Internet & Telecom/Mobile & Wireless/Mobile Apps & Add-Ons,0.6800000071525574,0.8517517559628871
+"App feels new and improved thanks to the recent update, well done!",KMeans_8_DBSCAN_2,0.0,0.7985806834766869
+Great app for planning!,KMeans_8_DBSCAN_2,0.0,0.8640725582110484
+Flight bookings take time.,KMeans_8_DBSCAN_-1,0.0,0.7645891840613979
+TravelTracker saved me during my last trip when I lost my printed itinerary. Everything was in the app.,/Travel,0.8700000047683716,0.7801777936404545
+Love tracking my expenses.,KMeans_8_DBSCAN_-1,0.0,0.7716731683948898
+"Too many ads, it's annoying to use the app.",KMeans_8_DBSCAN_2,0.0,0.8697424567571591
+"The premium features are helpful, but some are a bit buggy. Needs more polishing.",KMeans_1_DBSCAN_-1,0.0,0.7335828479381433
+"Finally, the update addressed the loading issues, very happy with this!",KMeans_2_DBSCAN_-1,0.0,0.8648637015189421
+"Update is a step backward, app worked better before these changes.",KMeans_8_DBSCAN_2,0.0,0.7938652508435026
+"Good app overall, but the frequent ads can be a turn-off.",KMeans_8_DBSCAN_2,0.0,0.8697424567571591
+"Too many pop-ups, can't use the app properly.",KMeans_8_DBSCAN_2,0.0,0.9999999787670691
+The price for premium is quite reasonable given all the extras.,KMeans_1_DBSCAN_-1,0.0,0.8885684742898633
+Great for trip budgeting.,KMeans_0_DBSCAN_0,0.0,0.8977534048802149
+It's like having a personal travel assistant in my pocket.,KMeans_0_DBSCAN_-1,0.0,0.8120102396237092
+"Best decision to go premium, loving the exclusive tools available.",KMeans_1_DBSCAN_-1,0.0,0.8584062471069867
+"The new update looks good, but the app crashes every time I try to open the map feature.",/Internet & Telecom/Mobile & Wireless/Mobile Apps & Add-Ons,0.7300000190734863,0.6512086104106611
+Easy to share itineraries.,KMeans_3_DBSCAN_-1,0.0,0.7418698515212917
+I love that it shows me alternate routes when my flight gets delayed.,KMeans_7_DBSCAN_3,0.0,0.9537401438401487
+Keeps me on track.,KMeans_2_DBSCAN_-1,0.0,0.8338241722339489
+Great for finding spots.,KMeans_9_DBSCAN_-1,0.0,0.9999999549989106
+"Flight alerts are on point, but I hate that the app crashes when I try to view my tickets.",/Travel,0.6200000047683716,0.7688518994663214
+"Premium subscription unlocks so many helpful tools, definitely worth it.",KMeans_1_DBSCAN_-1,0.0,0.717493386688119
+Premium subscription is a must for anyone who travels frequently.,KMeans_1_DBSCAN_-1,0.0,0.8960609446955436
+"Terrible app, it crashes at the home screen!",KMeans_8_DBSCAN_2,0.0,0.9073694083862595
+I can 't stand the constant updates. It feels like there 's a new version every week.,KMeans_2_DBSCAN_-1,0.0,0.8280844583473558
+Useful but crashes randomly.,KMeans_2_DBSCAN_-1,0.0,0.9999999520278722
+Helpful for trip organizing.,KMeans_0_DBSCAN_0,0.0,0.7322612429438963
+"Ads are annoying, especially when you 're in a rush. A premium ad-free version would be nice.",KMeans_1_DBSCAN_-1,0.550000011920929,0.891244594890064
+"Disappointed with the update, it's causing more problems than it solved.",KMeans_2_DBSCAN_-1,0.0,0.9770386278212216
+The update caused the app to freeze on the main screen.,KMeans_8_DBSCAN_2,0.0,0.8274457075027855
+"I love the expense tracking feature, but I wish the app was a bit faster when loading my data.",/Computers & Electronics/Software/Business & Productivity Software,0.6399999856948853,0.8441679622753813
+The best part is being able to see where my friends are traveling. It's like a social network for travelers.,KMeans_8_DBSCAN_-1,0.0,0.807548699078539
+"Great app for keeping my travel plans neat, but too many unnecessary notifications.",KMeans_8_DBSCAN_2,0.0,0.7510098362515811
+"Best app for travel planning, but the social sharing features need some work.",KMeans_8_DBSCAN_2,0.0,0.693115762723564
+"The premium features are nice, but too pricey for my taste.",KMeans_1_DBSCAN_-1,0.0,0.7826327817029765
+"Ads help keep the app free, so I don't mind.",KMeans_1_DBSCAN_-1,0.0,1.0000000941742153
+Too costly for what you get in the premium version.,KMeans_2_DBSCAN_-1,0.0,1.0000000071200563
+The payment feature needs improvement. It fails when using international cards.,KMeans_1_DBSCAN_-1,0.0,0.7520762704195162
+"Error messages keep popping up, very frustrating!",KMeans_2_DBSCAN_-1,0.0,0.8178366958886568
+Keeps me updated.,KMeans_2_DBSCAN_-1,0.0,1.0000000232768447
+"I can easily split expenses with friends, so convenient!",KMeans_1_DBSCAN_-1,0.0,0.7782426108250696
+"Not impressed with the update, app performance has declined noticeably.",KMeans_2_DBSCAN_-1,0.0,0.9134816343217084
+"Booking flights and hotels is easy, but the customer support response time is slow.",KMeans_8_DBSCAN_-1,0.0,0.6594320864910619
+"Ads are fine, they don't pop up too often.",KMeans_1_DBSCAN_-1,0.0,1.0000000941742153
+"Ads are a bit too frequent, but they 're not a dealbreaker considering the app is free.",KMeans_8_DBSCAN_2,0.5400000214576721,0.8217540346066498
+"The app's map feature doesn't load properly on my phone, making it hard to find saved locations.",/Internet & Telecom,0.6299999952316284,0.8993481881802857
+Perfect for solo travelers.,KMeans_0_DBSCAN_-1,0.0,0.7433601328233579
+"Really appreciate the extra features with premium, totally worth it.",KMeans_1_DBSCAN_-1,0.0,0.7936711550825261
+It would be great if the app supported offline access for my saved itineraries.,KMeans_8_DBSCAN_2,0.0,0.8807627394063214
+Cannot sync with calendar.,KMeans_5_DBSCAN_-1,0.0,1.00000003666974
+"Great update, especially loving the new layout and design changes.",KMeans_2_DBSCAN_-1,0.0,0.8762821193830516
+"Update messed up the app, now it's crashing more than before.",KMeans_8_DBSCAN_2,0.0,0.8513250262432053
+"It's great for tracking everything, but please add a feature to export my travel logs as PDFs.",KMeans_8_DBSCAN_-1,0.0,0.7401083316454363
+"I expected more from the premium subscription, not impressed.",KMeans_1_DBSCAN_-1,0.0,1.0000000106902294
+Simple and user-friendly.,KMeans_3_DBSCAN_-1,0.0,0.9999999796284575
+"Maps don't load properly, hard to find my saved locations.",KMeans_9_DBSCAN_4,0.0,0.872226856931315
+"App was fine before, the update has made it almost unusable.",KMeans_8_DBSCAN_2,0.0,0.8513250262432053
+Some features missing.,KMeans_6_DBSCAN_1,0.0,0.9999999775323131
+"Recent update improved navigation, finding everything is much easier now.",KMeans_8_DBSCAN_-1,0.0,0.7877647936328077
+Using this app for business trips makes everything so much more efficient.,KMeans_8_DBSCAN_2,0.0,0.7949856406620982
+"I appreciate the real-time updates on my bookings, but the app tends to freeze occasionally.",KMeans_7_DBSCAN_6,0.0,0.7089714351320251
+"The app does a good job of keeping all my travel details in one place, very organized.",KMeans_8_DBSCAN_2,0.0,0.753408398179385
+The latest update made the app slower. It used to work perfectly before.,KMeans_8_DBSCAN_2,0.0,0.8287534799557715
+Excellent travel assistant!,KMeans_0_DBSCAN_-1,0.0,0.8659580402734512
+I can 't access some of my saved places after the update. Please fix this.,KMeans_2_DBSCAN_-1,0.0,0.850247292096627
+Love the map integration.,KMeans_9_DBSCAN_-1,0.0,0.7658385056187397
+"The map doesn't always show the correct location pins, which is frustrating.",KMeans_9_DBSCAN_-1,0.0,0.7797915624251721
+Payment process needs fixing.,KMeans_1_DBSCAN_-1,0.0,0.8641657914131174
+"Too many ads, especially when booking something.",KMeans_1_DBSCAN_-1,0.0,0.947688824518664
+App crashes too often.,KMeans_2_DBSCAN_-1,0.0,0.9999999520278722
+"Ads make the app glitchy, not happy with this.",KMeans_8_DBSCAN_2,0.0,0.8377355683081822
+Some hotels I booked through the app didn't have the correct check-in details.,KMeans_8_DBSCAN_2,0.0,0.862956310744906
+"Ads are not too intrusive, can still use the app easily.",KMeans_8_DBSCAN_2,0.0,0.8697424567571591
+"Love how I can track expenses, but the interface feels a bit outdated.",KMeans_1_DBSCAN_-1,0.0,0.6830312718189607
+Sometimes unresponsive.,Uncategorized,0.0,0.0
+Flight alerts are very accurate and have saved me from missing several flights.,KMeans_7_DBSCAN_3,0.0,0.8556698692867857
+"New update removed the features I used the most, not happy.",KMeans_2_DBSCAN_-1,0.0,0.8192226887605613
+"Sharing my travel photos and itineraries with friends has never been easier, love this feature.",KMeans_0_DBSCAN_-1,0.0,0.7099457899308522
+"The recent update improved a lot, but the search function is still too slow.",KMeans_2_DBSCAN_-1,0.0,0.8083506243084687
+Sharing trip details with my friends is so easy now. I just wish there were more customization options.,/Travel,0.8299999833106995,0.7035580953089831
+"The app is great for planning trips, but it crashes too often which makes it frustrating to use.",/Internet & Telecom/Mobile & Wireless/Mobile Apps & Add-Ons,0.7900000214576721,0.8586234369664293
+"Affordable premium subscription, really helps with my trip planning.",KMeans_1_DBSCAN_-1,0.0,0.6998276242336795
+App fails during payments.,KMeans_8_DBSCAN_2,0.0,0.9735284461677136
+Confusing user interface.,KMeans_6_DBSCAN_-1,0.0,1.0000000189737739
+"Notifications are great, but I wish I could customize them more.",KMeans_4_DBSCAN_-1,0.0,0.9999999853366297
+Keeps my trips organized.,KMeans_2_DBSCAN_-1,0.0,0.7902865255875005
+"I love planning my trips with TravelTracker, but sometimes it logs me out for no reason.",KMeans_0_DBSCAN_0,0.0,0.8830139118093786
+Best for itinerary planning.,KMeans_5_DBSCAN_-1,0.0,0.9999999785641116
+The app helps me find great spots for food and sightseeing based on my itinerary.,KMeans_8_DBSCAN_2,0.0,0.8463612231913468
+"Expense tracking works well, but I wish it could auto-categorize my spending.",KMeans_2_DBSCAN_-1,0.0,0.7352400113318122
+Quick access to itineraries.,KMeans_0_DBSCAN_5,0.0,0.781960888259558
+"Maps don 't always load properly, which makes navigation a pain when you 're in a new city.",/Reference/Geographic Reference/Maps,0.8600000143051147,0.7726546181471609
+Payment process needs improvement it often fails when I'm trying to book something last minute.,KMeans_1_DBSCAN_-1,0.0,0.7120922317104436
+Good but needs work.,KMeans_8_DBSCAN_-1,0.0,1.0000000096269084
+"The ads are bearable, but I 'd prefer to pay a small fee to remove them entirely.",KMeans_1_DBSCAN_-1,0.5699999928474426,0.9749673269148545
+"After the update, the app crashes at least once every session.",KMeans_8_DBSCAN_2,0.0,0.7854285634643652
+App needs more offline features. I can 't always rely on having an internet connection when I travel.,/Internet & Telecom/Mobile & Wireless/Mobile Apps & Add-Ons,0.949999988079071,0.8491745714411825
+"Love the premium features, makes my travel planning so much easier.",KMeans_1_DBSCAN_-1,0.0,0.6708557792503564
+Annoying bugs in the app.,KMeans_8_DBSCAN_2,0.0,0.9273794688585693
+It would be nice to have a feature that suggests travel tips based on my current location.,KMeans_6_DBSCAN_1,0.0,0.8105034728303917
+Useful for frequent travelers.,KMeans_0_DBSCAN_-1,0.0,1.0000000872674206
+Slow to load itineraries.,KMeans_0_DBSCAN_5,0.0,1.0000000652273595
+I don't mind the ads,KMeans_1_DBSCAN_-1,0.0,1.0000000941742153
+"Too many ads ruin the experience, especially when trying to book flights quickly. Please reduce them!",KMeans_1_DBSCAN_-1,0.0,0.7845843495773341
+"Ads slow down the app, it's really frustrating.",KMeans_8_DBSCAN_2,0.0,0.8697424567571591
+Search results inaccurate.,KMeans_9_DBSCAN_-1,0.0,0.9083581620695742
+"The search function is really slow, and sometimes it doesn't show any results at all.",KMeans_9_DBSCAN_-1,0.0,0.826561737039492
+Payment fails frequently.,KMeans_1_DBSCAN_-1,0.0,1.0000001025750138
+I can finally keep track of my trip expenses without needing a separate app.,KMeans_8_DBSCAN_2,0.0,0.7264029590868094
+"Always updating, annoying.",Uncategorized,0.0,0.0
+Too many login issues.,KMeans_2_DBSCAN_-1,0.0,0.9999999596931552
+"Every time I open the app after the update, it freezes immediately.",KMeans_8_DBSCAN_2,0.0,0.8076321307546697
+"App keeps logging me out after the update, very annoying.",KMeans_2_DBSCAN_-1,0.0,0.8303939147739101
+"Ads pop up at the worst times, please fix this.",KMeans_1_DBSCAN_-1,0.0,0.9125353345857882
+Always crashes on startup.,KMeans_2_DBSCAN_-1,0.0,0.9295203847116921
+"Frequent crashes make the app unreliable, but it 's still the best I 've found for trip planning.",/Travel,0.7599999904632568,0.7319140948409231
+Keeps all my travel documents in one place. No more lost tickets or confirmation emails.,KMeans_0_DBSCAN_-1,0.0,0.7211293196739572
+"Update brought in some handy features, especially for tracking expenses.",KMeans_6_DBSCAN_1,0.0,0.7573771831543753
+"I've been using TravelTracker for all my trips, and it's been a lifesaver for keeping me on schedule.",KMeans_0_DBSCAN_0,0.0,0.8646267622945681
+Not sure if the premium is worth the extra cost.,KMeans_1_DBSCAN_-1,0.0,0.9242665115365236
+"Great app, but the notifications can be a bit overwhelming at times.",KMeans_8_DBSCAN_2,0.0,0.8396194567827111
+"Love the map integration, but the location accuracy could be improved.",KMeans_9_DBSCAN_-1,0.0,0.6941383321751425
+Saves all my travel docs.,KMeans_0_DBSCAN_-1,0.0,0.8823420751220705
+"Update is buggy, constantly showing error messages during use.",KMeans_2_DBSCAN_-1,0.0,0.8512910752512216
+The update looks nice but the functionality has taken a hit.,KMeans_2_DBSCAN_-1,0.0,0.7773128539730726
+"The app fails to load past trips sometimes, which is annoying when I need old details.",KMeans_8_DBSCAN_2,0.0,0.818247008937028
+"App performance improved significantly after the recent update, great job!",KMeans_2_DBSCAN_-1,0.0,0.8684617457451592
+"The UI could be a bit more intuitive, but overall it's a solid app for frequent travelers.",/Internet & Telecom/Mobile & Wireless,0.6000000238418579,0.8412975008877182
+"Loving the new update, everything feels faster and more reliable.",KMeans_2_DBSCAN_-1,0.0,0.8024891728896718
+"The recent update made things worse, keeps freezing every time I use it.",KMeans_2_DBSCAN_-1,0.0,0.7652971246070359
+Easy to plan trips.,KMeans_0_DBSCAN_0,0.0,0.9999999768887881
+"The update really enhanced the user experience, it's much more intuitive now.",KMeans_8_DBSCAN_-1,0.0,0.8106549108497766
+"The premium version is priced well, great value for frequent travelers.",KMeans_0_DBSCAN_-1,0.0,0.7155505103068066
+The premium subscription unlocks so many useful features. I couldn 't imagine traveling without it now.,KMeans_6_DBSCAN_1,0.0,0.7935147101198532
+"The app is a great travel companion, but I 'd like to see more integrations with other travel tools.",/Internet & Telecom/Mobile & Wireless/Mobile Apps & Add-Ons,0.7200000286102295,0.7474295550793372
+Lags during flight search.,KMeans_7_DBSCAN_3,0.0,0.7176679353287735
+Best travel tool.,KMeans_0_DBSCAN_-1,0.0,0.9375771169582021
+Love sharing travel photos.,KMeans_8_DBSCAN_-1,0.0,1.0000000123718091
+Excellent for organizing trips and keeping all my plans in one app.,KMeans_8_DBSCAN_2,0.0,0.7995571306298483
+"I'm impressed with the hotel deals, but the flight prices are often higher than other sites.",KMeans_7_DBSCAN_3,0.0,0.7445206726537296
+Needs more customization.,KMeans_5_DBSCAN_-1,0.0,0.8525170552808442
+"Update solved the annoying issues, app is usable again, thank you!",KMeans_8_DBSCAN_2,0.0,0.8216510895824525
+"Too many video ads, they waste my time.",KMeans_1_DBSCAN_-1,0.0,0.8453205987030404
+Better than other apps.,KMeans_8_DBSCAN_2,0.0,1.000000033232958
+Easy to split expenses.,KMeans_1_DBSCAN_-1,0.0,1.0000000162897444
+"Ads are too frequent, makes the app frustrating.",KMeans_1_DBSCAN_-1,0.0,0.8526868767082266
+I like the reminders for check-ins and flight changes. Very useful for busy schedules.,KMeans_7_DBSCAN_3,0.0,0.728516993352551
+Useful but needs improvements.,KMeans_2_DBSCAN_-1,0.0,0.9999999819046769
+Quick hotel bookings.,KMeans_7_DBSCAN_6,0.0,0.8938937298557977
+I had trouble sharing my itinerary with my friends. It keeps failing every time.,KMeans_8_DBSCAN_-1,0.0,0.7226134333890203
+"I love using this app, but the latest update seems to have made it slower.",KMeans_8_DBSCAN_2,0.0,0.9999999787670691
+"App performance improved significantly after the update, but it still freezes occasionally.",KMeans_2_DBSCAN_-1,0.0,0.9134816343217084
+"Great value, premium features enhance the app significantly.",KMeans_8_DBSCAN_2,0.0,0.8235673238319566
+"Happy to pay for premium, the additional features are fantastic.",KMeans_1_DBSCAN_-1,0.0,0.7936711550825261
+Struggles with payment step.,KMeans_1_DBSCAN_-1,0.0,0.7622559345039931
+"Ads cover important parts of the screen, very annoying.",KMeans_1_DBSCAN_-1,0.0,0.8662007947663195
+Issues with search button.,KMeans_9_DBSCAN_-1,0.0,0.7050087919787364
+"The new design looks great after the update, very clean interface.",KMeans_2_DBSCAN_-1,0.0,0.7968350420398038
+Keeps everything in one place.,KMeans_2_DBSCAN_-1,0.0,0.779011689822124
+"Update brought more bugs, app crashes at random times now.",KMeans_2_DBSCAN_-1,0.0,0.789964516566905
+"The new premium tools are helpful, but the subscription is a bit overpriced.",KMeans_1_DBSCAN_-1,0.0,0.7458168441875093
+"The booking process is seamless, and I always find the best deals on hotels and flights.",KMeans_7_DBSCAN_6,0.0,0.7112473078920554
+"Easy to use and keeps all my travel details in one place, but could be faster.",KMeans_0_DBSCAN_-1,0.0,0.8245283151129166
+Sharing options are limited.,KMeans_8_DBSCAN_-1,0.0,0.8254485080742353
