@@ -8,3 +8,6 @@
 
 
 ## Refer the PDF white paper in the repo for more details! 
+
+
+[Horizon_AI__NLP_and_LLM_Powered_Feedback_Analytics_Tool.pdf](https://github.com/user-attachments/files/22352809/Horizon_AI__NLP_and_LLM_Powered_Feedback_Analytics_Tool.pdf)
