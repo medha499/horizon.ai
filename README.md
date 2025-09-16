@@ -1,6 +1,6 @@
 ## Horizon.AI – Voice of Customer (VoC) Analytics Platform
 
-
+> _Note:_ Example datasets are synthetic; the system supports both anonymized and production pipelines with standard governance controls. Also, all API keys have been redacted for privacy reasons.
 ## Summary ## 
 Delivering exceptional customer experiences requires more than just collecting feedback: it demands actionable insights and seamless execution. Traditional feedback management tools provide valuable data but often do not drive timely and effective solutions, leading to higher churn rates and lower retention. Companies with high churn rates struggle to grow, as they must replace lost customers just to break even [1]. In short, churn and retention are critical metrics for any subscription or recurring revenue business because they directly affect revenue, customer lifetime value, and overall profitability.
 Horizon.AI, powered by advanced AI and Large Language Models (LLMs), is a game changer. By automating feedback analysis and integrating insights across teams, this tool enables organizations to identify root causes, assign tasks with clarity, and act with speed and precision.
@@ -64,4 +64,3 @@ For methodology and experiments, see the full write-up:
 
 [Horizon_AI__NLP_and_LLM_Powered_Feedback_Analytics_Tool.pdf](https://github.com/user-attachments/files/22352809/Horizon_AI__NLP_and_LLM_Powered_Feedback_Analytics_Tool.pdf)
 
-> _Note:_ Example datasets are synthetic; the system supports both anonymized and production pipelines with standard governance controls.
